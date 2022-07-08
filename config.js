@@ -56,18 +56,18 @@ global.ppulsa2 = '08979530736'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nomorbot = '6282147562437'
+global.nomorown = '6287793236775'
+global.namebot = 'RamaBotz'
+global.nameown = 'Ramaa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['6287793236775'],
+  ['6287793236775'],
+  ['6287793236775'],
+  ['6282147562437', 'RamaBotz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,13 +112,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee-Md【﻿ＸｘＹｚ】' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ BotzzMee-Md¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '☘︎ ʙᴏᴛᴢᴢᴍᴇᴇ-MD'
+global.wm = 'RamaBotz-MD' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ RamaBotz-MD¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '☘︎ RamaBotz-MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ 𝗕𝗮𝗿𝗮𝗫𝗗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Rama ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
