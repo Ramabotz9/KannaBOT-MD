@@ -18,7 +18,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • No Telp`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/02a2903c1e25228285740.jpg'
+let ppown = 'https://telegra.ph/file/6f86283d8bba220a62ba5.jpg'
 let teksbio = `${htki} *TENTANG OWNER* ${htka}
 ❑ *Nama* :Rama
 ❑ *Umur* :19 Tahun
