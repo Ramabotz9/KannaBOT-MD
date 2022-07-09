@@ -41,19 +41,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
-global.sdc = 'https://t.me/BotzzMeeOFC'
+global.sig = 'https://instagram.com/ahmdzakaria47'
+global.sgh = 'https://github.com/RamaBotz9'
+global.sgc = 'https://chat.whatsapp.com/Du4M5jnXaXy04Wvi41hT4t'
+global.sdc = 'https://t.me/RamaBotz'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = '_*GADA*_'
+global.povo = '_*GADA*_'
+global.pgopay = '087793236775'
+global.ppulsa = '087793236775'
+global.ppulsa2 = '082147562437'
+global.psaweria = 'https://saweria.co/Gada'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6282147562437'
