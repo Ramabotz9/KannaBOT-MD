@@ -122,8 +122,8 @@ global.author = '┄┄┄┅┅❑ Rama ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6048ec3e029520424c234.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
+global.thumb = 'https://telegra.ph/file/3044f9dbee3d4b1c84b9d.png' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/dc675304af86e1c13b3b0.jpg'
 global.giflogo = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
 global.thumbs = ['https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg','https://telegra.ph/file/6048ec3e029520424c234.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
